@@ -4,8 +4,10 @@ class Trayecto{
     private List<Parada> paradas;
     
     public Time calcularTiempoDeDemora() {
+	Time demoraTotal;
         for (Parada parada : paradas) {
-            demoraTotal += parada.calcularDemora();}
+            demoraTotal += parada.calcularDemora();
+	}
         return demoraTotal;
     }   	
 	
