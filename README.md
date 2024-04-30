@@ -1,2 +1,1 @@
-Una resolución bastante rudimentaria del punto 2 del final "Cuidándonos".  
-Integrantes: Yo solo. 
+Una resolución bastante rudimentaria del punto 2 del final "Cuidándonos".
